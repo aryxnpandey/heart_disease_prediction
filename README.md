@@ -50,7 +50,6 @@ HeartDiseasePrediction/
 ├── heart_gui.py
 ├── screenshots/
 ├── README.md
-└── requirements.txt
 ```
 
 ---
