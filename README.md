@@ -136,26 +136,29 @@ python heart_gui.py
 
 ---
 
-## Screenshots
+## 🖼 Screenshots
 
 ### Main Interface
 
-*(Add screenshot here)*
+![Main Interface](screenshots/home.png)
 
 ---
 
-### Prediction Result
+### Basic UI
 
-*(Add screenshot here)*
-
----
-
-### Risk Percentage
-
-*(Add screenshot here)*
+![Basic UI](basicui.png)
 
 ---
 
+### Healthy Prediction
+
+![Healthy Prediction](screenshots/healthy.png)
+
+---
+
+### Risk
+
+![Risk](screenshots/risk.png)
 ## Future Improvements
 
 - Save prediction history
